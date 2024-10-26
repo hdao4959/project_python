@@ -1,0 +1,5 @@
+env/
+sentiment140/
+*.pyc
+__pycache__/
+.git/
